@@ -48,6 +48,9 @@ PDISA (Plant Disease Identification and Severity Assessment) is a deep learning-
 
 <img width="1102" height="479" alt="image" src="https://github.com/user-attachments/assets/e7117d97-18ed-4053-b3aa-8389e20eebdc" />
 
+<img width="1643" height="152" alt="image" src="https://github.com/user-attachments/assets/2f54012f-fd8e-44c7-854a-7e710bd90ffc" />
+
+
 ---
 
 ### Disease Severity Quantification
