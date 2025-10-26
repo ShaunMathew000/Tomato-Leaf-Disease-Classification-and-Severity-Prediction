@@ -24,7 +24,7 @@ PDISA (Plant Disease Identification and Severity Assessment) is a deep learning-
 ### Dataset and Scope
 
 - **Dataset Source**: PlantVillage dataset.
-- 
+
 - **Target Classes**:  
 
 <img width="1054" height="564" alt="image" src="https://github.com/user-attachments/assets/c4c1219e-976e-4b1e-945b-f2394fb59b82" />
