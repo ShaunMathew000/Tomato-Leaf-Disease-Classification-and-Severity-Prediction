@@ -1,7 +1,7 @@
 # PDISA: Plant Disease Identification and Severity Assessment
 
-🌿 **Project Overview**  
-PDISA (Plant Disease Identification and Severity Assessment) is a deep learning-based solution for early detection and classification of plant diseases, with a focus on tomato leaf diseases. The model combines transfer learning, image segmentation, and predictive analytics to support agricultural sustainability and food security (aligned with Sustainable Development Goal 2: Zero Hunger).
+## 🌿 **Project Overview**  
+PDISA (Plant Disease Identification and Severity Assessment) is a deep learning-based solution for early detection and classification of plant diseases, with a focus on tomato leaf diseases. The model combines transfer learning, image segmentation, and predictive analytics to support agricultural sustainability and food security.
 
 ---
 
