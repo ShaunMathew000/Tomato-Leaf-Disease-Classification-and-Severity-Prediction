@@ -33,9 +33,9 @@ PDISA (Plant Disease Identification and Severity Assessment) is a deep learning-
 
 - **Method**: Image segmentation (color-based segmentation and thresholding) to isolate infected regions.
 - **Severity Calculation**:  
-  \[
-  \text{Severity (\%)} = \left( \frac{\text{Infected pixels}}{\text{Total leaf pixels}} \right) \times 100
-  \]
+  
+  Severity % = (Infected pixels/Total leaf pixels) times 100
+ 
 - **Severity Tiers**:  
   - Class 0: 0–5% (Healthy leaves)  
   - Class 1: 6–20%  
@@ -59,9 +59,9 @@ The infected regions are isolated using **color-based segmentation** and **thres
 #### Severity Calculation
 The severity percentage is computed using the ratio of infected pixels to the total leaf pixels, multiplied by 100:
 
-\[
-\text{Severity \%} = \left(\frac{\text{Infected Pixels}}{\text{Total Leaf Pixels}}\right) \times 100
-\]
+
+Severity % = (Infected Pixels/Total Leaf Pixels) times 100
+
 
 <img width="870" height="492" alt="image" src="https://github.com/user-attachments/assets/d8c93936-357d-47a6-b694-6b557c75ef5c" />
 
@@ -77,7 +77,7 @@ Based on the computed severity percentage, leaves are categorized into four dist
 | 3      | 51–100%        | Heavy infection              |
 
 #### Validation
-The severity estimation module achieved a **0.91 correlation coefficient** with expert laboratory ratings, confirming its high reliability and robustness in quantifying disease progression.
+The severity estimation module confirmed its high reliability and robustness in quantifying disease progression.
 
 <img width="1068" height="729" alt="image" src="https://github.com/user-attachments/assets/9054399b-5fb1-467d-8596-96f852d480ed" />
 
