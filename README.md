@@ -51,7 +51,7 @@ PDISA (Plant Disease Identification and Severity Assessment) is a deep learning-
 ---
 
 ### Disease Severity Quantification
-The **Severity Analysis Module** quantifies the progression of plant disease, a crucial step for delivering accurate treatment recommendations and effectively managing agricultural resources. While the specific library **OpenCV** is not explicitly mentioned, the process utilizes computer vision techniques commonly handled by such libraries.
+The **Severity Analysis Module** quantifies the progression of plant disease, a crucial step for delivering accurate treatment recommendations and effectively managing agricultural resources. The process utilizes specific libraries in OpenCV to implement severity prediction module.
 
 #### Infected Region Isolation
 The infected regions are isolated using **color-based segmentation** and **thresholding** methods. These steps convert the input image into a processed representation that highlights infected zones, enabling precise identification of diseased leaf areas.
