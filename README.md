@@ -88,7 +88,7 @@ The severity estimation module confirmed its high reliability and robustness in 
 
 ## 🚀 Getting Started
 
-To run the PDISA model locally, run the tomatoClassification.ipynb and SeverityPrediction.ipynb files in the repository simultaneously.
+To run the PDISA model locally, download and run the tomatoClassification.ipynb and SeverityPrediction.ipynb files in the repository simultaneously.
 
 
 ## 📚 References
